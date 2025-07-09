@@ -1,0 +1,2 @@
+H and M fashion dataset
+https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data?select=transactions_train.csv
